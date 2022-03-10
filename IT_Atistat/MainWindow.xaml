@@ -1,0 +1,32 @@
+﻿<Window x:Class="IT_Atistat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IT_Atistat"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" 
+        >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="91*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="89*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" Grid.Column="0">
+            <Button HorizontalAlignment="Left" Background="Green" FontSize="16" Height="30" Width="320" Content="Сгенерировать данные"/>
+            <Button HorizontalAlignment="Left" Background="Green" FontSize="16" Height="30" Width="320" Content="Среднеарифметическое значение оценки"/>
+            <Button HorizontalAlignment="Left" Background="Green" FontSize="16" Height="30" Width="320" Content="Количество прогулов"/>
+            <Button HorizontalAlignment="Left" Height="30" FontSize="16" Background="Green" Width="320" Content="Количество пропусков по болезни"/>
+            <Button HorizontalAlignment="Left" Height="30" FontSize="16" Background="Green" Width="320" Content="Создать номер билета"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Column="2" >
+            <TextBox HorizontalAlignment="Left" Height="30" Width="265"/>
+            <TextBox HorizontalAlignment="Left" Height="30" Width="265"/>
+            <TextBox HorizontalAlignment="Left" Height="30" Width="265"/>
+            <TextBox HorizontalAlignment="Left" Height="30" Width="265"/>
+            <TextBox HorizontalAlignment="Left" Height="30" Width="265"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,2 @@
+D:\VMBOX\ET_Eliseev_Smirnov\LibAtestat\obj\Debug\LibAtestat.csproj.AssemblyReference.cache
+D:\VMBOX\ET_Eliseev_Smirnov\LibAtestat\obj\Debug\LibAtestat.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\bin\Debug\IT_Atistat.exe.config
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\bin\Debug\IT_Atistat.exe
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\bin\Debug\IT_Atistat.pdb
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\IT_Atistat.csproj.AssemblyReference.cache
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\IT_Atistat.csproj.SuggestedBindingRedirects.cache
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\MainWindow.g.cs
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\App.g.cs
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\IT_Atistat_MarkupCompile.cache
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\IT_Atistat_MarkupCompile.lref
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\MainWindow.baml
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\IT_Atistat.g.resources
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\IT_Atistat.Properties.Resources.resources
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\IT_Atistat.csproj.GenerateResource.cache
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\IT_Atistat.csproj.CoreCompileInputs.cache
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\IT_Atistat.exe
+D:\VMBOX\ET_Eliseev_Smirnov\IT_Atistat\obj\Debug\IT_Atistat.pdb
